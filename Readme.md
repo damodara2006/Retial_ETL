@@ -69,9 +69,13 @@ I created some fun visualizations to understand the data better:
 1. **Product Categories Chart**: Shows which types of products are most common
 
 ![alt text](image.png)
+
 2. **Price Distribution**: How expensive/cheap products are on average  
+
 ![alt text](image-1.png)
+
 3. **Revenue by Category**: Which product types make the most money
+
 ![alt text](image-2.png)
 
 These charts help answer questions like "What sells best?" and "Where's the money coming from?"
@@ -131,24 +135,6 @@ The data is pretty interesting! I found:
 - Sales happening across various Indian cities
 - Revenue patterns that show which products are most profitable
 - Price ranges that help understand the market
-
-##  Ideas for the Future
-
-If I had more time, I'd love to:
-- Add more data validation to catch errors
-- Create a dashboard that updates automatically
-- Use machine learning to predict sales trends
-- Make it work with live data streams
-- Add more interactive charts
-
-##  Want to Help?
-
-This is a college project, but if you want to contribute:
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
 
 ##  About This Project
 
